@@ -1,11 +1,5 @@
 /* kinikilig */
-.diversityEmojiItemImage-1pfGqI[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .diversityEmojiItemImage-1pfGqI[style*='background-image: url("https://cdn.discordapp.com/emojis/1023604227513274569.webp")'], 
-.emoji-4YP39J[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .emoji-4YP39J[style*='background-image: url("https://cdn.discordapp.com/emojis/1023604227513274569.webp")'], 
-.emojiImage-1mTIfi[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .emojiImage-1mTIfi[style*='background-image: url("https://cdn.discordapp.com/emojis/1023604227513274569.webp")'], 
-.image-21g2ca[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .image-21g2ca[style*='background-image: url("https://cdn.discordapp.com/emojis/1023604227513274569.webp")'], 
-.icon-Yl4xbA[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .icon-Yl4xbA[style*='background-image: url("https://cdn.discordapp.com/emojis/1023604227513274569.webp")'], 
-.emoji-1kNQp2[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .emoji-1kNQp2[style*='background-image: url("https://cdn.discordapp.com/emojis/1023604227513274569.webp")'], 
-.emoji[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], .emoji[style*='background-image: url("emojis/1023604227513274569.webp")'] {
+img[src^='https://cdn.discordapp.com/emojis/1023604227513274569.webp'], img[style*='background-image: url("emojis/1023604227513274569.webp")'] {
 	background: transparent !important;
 	content: url("https://ssqminky.github.io/BetterDiscord/EmojiReplace/Apple/img/kinikilig.png") !important;
 }

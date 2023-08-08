@@ -1,0 +1,23 @@
+/* CSS Document */
+
+.category {
+	background: #4E80D0;
+	font-size: 200%;
+}
+
+.subcategory {
+	background: lightblue;
+}
+
+tr:hover:not(.spacing):not(.formatpreview) {
+	background: #eeeeee;
+}
+
+tr:not(.spacing):not(.formatpreview) {
+	background: #ffffff;
+}
+
+.miditable {
+	max-width: 1000px;
+	margin: auto;
+}
